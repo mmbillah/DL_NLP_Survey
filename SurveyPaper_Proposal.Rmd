@@ -1,0 +1,20 @@
+---
+title: 'CptS 575 Data Science: Survey Paper Proposal'
+author: "Md Muhtasim Billah"
+date: "10/31/2020"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Topic for Survey Paper:
+
+Deep learning in the field of natural language processing (NLP).
+
+## Reason for Selection:
+
+  * For the semester project, I chose an active Kaggle competetion which will require the application of standard depp neural network. I have some prior knowledge about deep learning and I believe writing a survey paper on this topic will help me strengthen my understanding of this topic as well as broaden my overview of the field.
+  
+  * Alogside computer vision, NLP is a growing field where deep learning is being used significantly. I have some basic knowledge about the sequence models and I believe focusing on NLP as the survey paper topic will provide with me some helpful insights.
